@@ -1,0 +1,1343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"us",
+				"userpass"
+			],
+			[
+				"u",
+				"useremail"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"tbl",
+				"tblcount"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"tb",
+				"tblcount"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"pa",
+				"payment"
+			],
+			[
+				"paymen",
+				"payment_id"
+			],
+			[
+				"onmo",
+				"onmouseleave\tAttr"
+			],
+			[
+				"bl",
+				"inline-block\tdisplay"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"q",
+				"quer"
+			],
+			[
+				"User",
+				"user"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"pas",
+				"pas1"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ca",
+				"calu"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"res",
+				"resultCount"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"payment",
+				"paymentDataRequest"
+			],
+			[
+				"ga",
+				"gatewayMerchantId"
+			],
+			[
+				"toke",
+				"tokenizationSpec"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"pay",
+				"paymentDataRequest"
+			],
+			[
+				"cli",
+				"clientConfiguration"
+			],
+			[
+				"TI",
+				"title"
+			],
+			[
+				"id_",
+				"id_type"
+			],
+			[
+				"status",
+				"status1"
+			],
+			[
+				"U",
+				"Url"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"Payer",
+				"PayerID"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"redire",
+				"redirect_url"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Red",
+				"RedirectUrls"
+			],
+			[
+				"redirect",
+				"RedirectUrls"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"ite",
+				"item_1"
+			],
+			[
+				"item",
+				"item_list"
+			],
+			[
+				"Pa",
+				"Payment"
+			],
+			[
+				"_",
+				"_api_context"
+			],
+			[
+				"idRa",
+				"idRandStart"
+			],
+			[
+				"id",
+				"idType"
+			],
+			[
+				"prod",
+				"prodid"
+			],
+			[
+				"pro",
+				"prodid"
+			],
+			[
+				"new",
+				"newname"
+			],
+			[
+				"out",
+				"out1"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"cat",
+				"catsm"
+			],
+			[
+				"br",
+				"brrnd"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"aut",
+				"author_name"
+			],
+			[
+				"b",
+				"book_name"
+			],
+			[
+				"au",
+				"author_name"
+			],
+			[
+				"book_",
+				"book_name"
+			],
+			[
+				"upad",
+				"update"
+			],
+			[
+				"butto",
+				"button5"
+			],
+			[
+				"tbl1",
+				"tbl1id"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"sca",
+				"scat_status"
+			],
+			[
+				"mca",
+				"mcat_status"
+			],
+			[
+				"brd",
+				"brd_name"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"rand",
+				"randid"
+			],
+			[
+				"ph",
+				"phno"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"se",
+				"style\tAttr"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"bas",
+				"base_url"
+			],
+			[
+				"m",
+				"mail"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"arr",
+				"arra"
+			],
+			[
+				"old",
+				"oldtotal"
+			],
+			[
+				"ccart",
+				"ccart_id"
+			],
+			[
+				"t",
+				"totalqnty"
+			],
+			[
+				"tota",
+				"totalamout"
+			],
+			[
+				"cart",
+				"ccart_id"
+			],
+			[
+				"pra",
+				"parseInt"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"cca",
+				"ccart_ttamt"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"cus",
+				"cust_id"
+			],
+			[
+				"cond",
+				"cond2"
+			],
+			[
+				"pric",
+				"price_s"
+			],
+			[
+				"cc",
+				"ccart_ttamt"
+			],
+			[
+				"n",
+				"nqnty"
+			],
+			[
+				"cu",
+				"cus_id"
+			],
+			[
+				"qnty",
+				"qntyval"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"OR",
+				"ORDER"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"er",
+				"er2"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"ccar",
+				"ccart_totalamt"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"fa",
+				"fa-map-marker"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"coll",
+				"navbar-collapse"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"name",
+				"name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/larval/larv8/app/Models/UserModel.php",
+			"settings":
+			{
+				"buffer_size": 3828,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 11426,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 970,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/admin/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 21999,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/login.blade.php",
+			"settings":
+			{
+				"buffer_size": 6757,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/pages/fruit.blade.php",
+			"settings":
+			{
+				"buffer_size": 1715,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/pages/pet.blade.php",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<script>"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/pages/bird.blade.php",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/pages/tuber.blade.php",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/larval/larv8/resources/views/pages/veggie.blade.php",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"pci",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/larval/larv8/public/assets/manifest.json",
+		"/C/larval/larv8/resources/views/manifest.json",
+		"/C/larval/larv8/resources/views/home.blade.php",
+		"/C/larval/larv8/resources/views/fruit.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/product.blade.php",
+		"/C/larval/larv8/app/Models/User.php",
+		"/C/larval/larv8/app/Models/UserModel.php",
+		"/C/larval/larv8/config/auth.php",
+		"/C/larval/inetfarms/routes/web.php",
+		"/C/larval/larv8/.env",
+		"/C/larval/larv8/app/Http/Controllers/Controller.php",
+		"/C/larval/inetfarms/app/Http/Controllers/UserController.php",
+		"/C/larval/inetfarms/app/Http/Controllers/Controller.php",
+		"/C/larval/larv8/resources/views/login.html",
+		"/C/larval/inetfarms/resources/views/guest/content.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/products.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/login.blade.php",
+		"/C/larval/inetfarms/resources/views/template/header.blade.php",
+		"/C/larval/inetfarms/app/UserModel.php",
+		"/C/larval/inetfarms/resources/views/user/cart.blade.php",
+		"/C/larval/inetfarms/resources/views/template/footer.blade.php",
+		"/C/larval/inetfarms/resources/views/usertemp/header.blade.php",
+		"/C/larval/inetfarms/resources/views/user/products.blade.php",
+		"/C/larval/larv8/resources/views/index.html",
+		"/C/Users/acer/Desktop/simple.cpp",
+		"/C/Users/acer/Desktop/outt.c",
+		"/C/Users/acer/Desktop/New folder/form.php",
+		"/C/Users/acer/Desktop/New folder/search.php",
+		"/C/Users/acer/Desktop/Ajax/form.php",
+		"/C/Users/acer/Desktop/Ajax/search.php",
+		"/C/larval/inetfarms/config/session.php",
+		"/C/Users/acer/Downloads/k.c",
+		"/C/Users/acer/Downloads/func.c",
+		"/C/larval/inetfarms/resources/views/guest/about.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/blog.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/contact.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/gallery.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/gpaytest.balde.php",
+		"/C/larval/inetfarms/resources/views/guest/gpaytest.php",
+		"/C/larval/inetfarms/resources/views/guest/status1.blade.php",
+		"/C/larval/inetfarms/resources/views/guest/terms.blade.php",
+		"/C/ci4/Admin/app/Views/home/product_page.php",
+		"/C/ci4/Admin/app/Views/home/imageupload.php",
+		"/C/ci4/Admin/app/Views/home/product.php",
+		"/C/ci4/Admin/app/Views/admin/template/footer.php",
+		"/C/ci4/Admin/app/Views/admin/template/header.php",
+		"/C/ci4/Admin/app/Config/Routes.php",
+		"/C/ci4/Admin/app/Controllers/Home.php",
+		"/C/ci4/Admin/app/Models/Modells.php",
+		"/C/ci4/Admin/app/Views/home/index.php",
+		"/C/xamppp/htdocs/teena/book/upload.php",
+		"/C/larval/inetfarms/.env",
+		"/C/larval/inetfarms/config/paypal.php",
+		"/C/DND/DNDR/app/Models/User.php",
+		"/C/DND/DNDR/app/Http/Controllers/Controller.php",
+		"/C/DND/DNDR/routes/web.php",
+		"/C/DND/DNDR/resources/views/guest/header.blade.php",
+		"/C/DND/DNDR/resources/views/guest/index.blade.php",
+		"/C/DND/DNDR/resources/views/guest/footer.blade.php",
+		"/C/larval/inetfarms/public/assets/css/script.css",
+		"/C/larval/inetfarms/public/assets/css/custom.css",
+		"/C/angular/inetfarm/src/app/app.component.ts",
+		"/C/ci4/Admin/.env",
+		"/C/kk/reblz/tbl_brand.ibd",
+		"/C/kk/reblz/tbl_brand.frm",
+		"/C/xampp/htdocs/teena/book/upload.php",
+		"/C/larval/inetfarms/public/index.php",
+		"/C/larval/inetfarms/resources/views/template/pay.js",
+		"/C/larval/inetfarms/resources/views/template/pay.php",
+		"/C/larval/inetfarms/resources/views/template/gp.php",
+		"/C/xampp/htdocs/teena/profile.php",
+		"/C/xampp/htdocs/teena/book/searchb.php",
+		"/C/xampp/htdocs/teena/book/add.php",
+		"/C/xampp/htdocs/teena/book/search_action.php",
+		"/C/xampp/htdocs/teena/index1.php",
+		"/C/xampp/htdocs/abhi/application/controllers/Welcome.php",
+		"/C/larval/inetfarms/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalHttpConnection.php",
+		"/C/larval/inetfarms/config/app.php",
+		"/C/larval/inetfarms/resources/views/guest/status.blade.php",
+		"/C/larval/inetfarms/vendor/paypal/rest-api-sdk-php/lib/PayPal/Log/PayPalLogger.php",
+		"/C/xampp/htdocs/teena/book/view.php",
+		"/C/xampp/htdocs/teena/book/register.php",
+		"/C/xampp/htdocs/teena/book/viewbook.php",
+		"/C/xampp/htdocs/teena/book/display.php",
+		"/C/xampp/htdocs/teena/book/update_action.php",
+		"/C/xampp/htdocs/teena/book/login.php",
+		"/C/TURBOC3/Projects/dma.c",
+		"/C/xampp/htdocs/teena/book/teena.php",
+		"/C/larval/inetfarms/composer.json",
+		"/C/xampp/htdocs/teena/book/delete_action.php",
+		"/C/ci4/Admin/app/Views/home/login.php",
+		"/C/ci4/AdminLTE-3.0.5/index2.html",
+		"/C/xampp/htdocs/abhi/application/config/routes.php",
+		"/C/xampp/htdocs/teena/action.php",
+		"/C/xampp/htdocs/teena/pgm1.php",
+		"/C/ci4/Admin/app/Config/App.php",
+		"/C/ci4/Admin/app/Controllers/BaseController.php",
+		"/C/xampp/htdocs/teena/book/book_action.php",
+		"/C/xampp/htdocs/teena/book/index.php",
+		"/C/xampp/htdocs/teena/student.php",
+		"/C/ci4/Admin/app/Config/Services.php",
+		"/C/xampp/htdocs/abhi/application/models/model.php",
+		"/C/ci4/Admin/app/Config/Database.php",
+		"/C/ci4/Admin/app/Models/Model.php",
+		"/C/DND/DNDR/resources/views/guest/index.html",
+		"/C/DND/DNDR/resources/views/user/scriptfooter.blade.php",
+		"/C/DND/DNDR/resources/views/user/shoppage.blade.php",
+		"/C/DND/DNDR/resources/views/user/linkhead.blade.php",
+		"/C/DND/DNDR/resources/views/user/index.blade.php",
+		"/C/xampp/htdocs/teena/register.php",
+		"/C/DND/DNDR/resources/views/user/shopreg.php",
+		"/C/ci4/Admin/public/assets/plugins/jquery/jquery.js",
+		"/C/xampp/htdocs/teena/login.php",
+		"/C/xampp/htdocs/teena/book/search.php",
+		"/C/xampp/htdocs/teena/index.php",
+		"/C/xampp/htdocs/teena/welcome.php",
+		"/C/xampp/htdocs/abhi/application/views/user/customer/footer.php",
+		"/C/DND/DNDR/.env",
+		"/C/DND/DNDR/config/app.php",
+		"/C/DND/DNDR/resources/views/index.blade.php",
+		"/C/xampp/htdocs/me/dbin.php",
+		"/C/xampp/htdocs/me/index.php",
+		"/C/ci4/maintanence/index.html",
+		"/C/ci4/hh/index.php",
+		"/C/ci4/hh/Admin/app/Config/App.php",
+		"/C/xampp/htdocs/abhi/application/views/user/customer/header.php",
+		"/C/xampp/htdocs/abhi/application/views/user/customer/cart.php",
+		"/C/Users/acer/Desktop/learn.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"login",
+			"img/",
+			"></",
+			"checkout",
+			"}\n",
+			" $",
+			"brnd",
+			"supportedInstruments",
+			"=\"\"",
+			"Payment",
+			"approval_url",
+			" $",
+			"('');\n",
+			"tbl3id",
+			"register",
+			"images",
+			"css",
+			"author",
+			"fghfgh",
+			"hashing",
+			"login",
+			"dist/",
+			"dist",
+			"plugins/",
+			"parseInt",
+			"; ",
+			",\n",
+			"vendors",
+			"ccart_amount",
+			"products",
+			"selectWhere",
+			"Remove Item",
+			"form-control",
+			"form-coontrol",
+			"16rem",
+			"</th>",
+			"<th>",
+			"4",
+			"time",
+			"registration",
+			"idGenerator",
+			"$idTy",
+			"idGenerator",
+			"idGene",
+			"node",
+			"mr-sm-2",
+			">\".$",
+			"toast-error",
+			"toast-bottom-center",
+			"dist",
+			"plugins",
+			"col-megamenu",
+			"product_name",
+			"grid_4",
+			"single_product",
+			"single_product.product_name",
+			"product_name",
+			"widgets_container",
+			"footer_",
+			"header_middle",
+			"header_bottom",
+			"sticky-header",
+			"main_header",
+			"logo",
+			"index.html",
+			"product-details.html",
+			"index",
+			"logo",
+			"canvas_open",
+			"sticky-header",
+			"header_two",
+			"header_middle",
+			"canvas_open",
+			"header_singinup",
+			"canvas_open",
+			"logo",
+			"header_singinup",
+			"sticky-header",
+			"header_middle",
+			"10",
+			"header_middle",
+			"main_header",
+			"sticky-header",
+			"header_middle",
+			"button",
+			"product_variant",
+			"button",
+			"Viewe",
+			"single-zoom",
+			"assets",
+			"style=\"font-size:2vw;\"",
+			"3vw",
+			"product_name",
+			"2vw",
+			"2vm",
+			"3vw",
+			"3vm",
+			"1vw",
+			"price_box",
+			"item_count",
+			"position",
+			"75px",
+			"; ",
+			"canvas_open",
+			"sticky-header",
+			"offcanvas_menu",
+			"widget_list",
+			"sidebar_widget",
+			"canvas_open",
+			"header_account_list",
+			"overflow",
+			"overflow-x",
+			"header_bottom",
+			"action_links",
+			"shop_wrapper",
+			"main_menu",
+			"header_middle",
+			"color_two",
+			"font-size",
+			"shop_wrapper",
+			"shop_fullwidth",
+			"shop_area",
+			"header_two",
+			"main_header",
+			"offcanvas_menu",
+			"sub_menu",
+			"niceselect_option",
+			"select_option"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/larval/larv8/app/Models/UserModel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/larval/larv8/app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/larval/larv8/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/larval/larv8/resources/views/admin/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21872,
+								21872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/larval/larv8/resources/views/login.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 946.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/larval/larv8/resources/views/pages/fruit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1592,
+								1707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/larval/larv8/resources/views/pages/pet.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<script>",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/larval/larv8/resources/views/pages/bird.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1929,
+								1929
+							],
+							[
+								2032,
+								2032
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 711.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/larval/larv8/resources/views/pages/tuber.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2032,
+								2032
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 711.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/larval/larv8/resources/views/pages/veggie.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2032,
+								2032
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 711.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "header.blade.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\ci4\\Admin\\app\\Views\\home\\index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
